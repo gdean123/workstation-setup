@@ -1,0 +1,5 @@
+#!/bin/bash
+
+git config --global alias.st status
+git config --global alias.ci duet-commit
+git config --global alias.co checkout
