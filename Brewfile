@@ -12,6 +12,7 @@ cask 'webstorm'
 cask 'rubymine'
 cask 'docker'
 cask 'google-chrome'
+cask 'slack'
 
 brew 'rbenv'
 brew 'python'
