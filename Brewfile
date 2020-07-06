@@ -13,6 +13,7 @@ cask 'rubymine'
 cask 'docker'
 cask 'google-chrome'
 cask 'slack'
+cask 'visual-studio-code'
 
 brew 'rbenv'
 brew 'python'
