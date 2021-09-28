@@ -10,6 +10,7 @@ cask 'intellij-idea'
 cask 'docker'
 cask 'google-chrome'
 cask 'slack'
+cask 'rectangle'
 
 brew 'rbenv'
 brew 'python'
